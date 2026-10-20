@@ -14,7 +14,7 @@ Hands-on robotics, taught by building complete robots: CAD → electronics → f
 | Aerial | [**PX4 drone teleoperation**](https://github.com/MechaMind-Labs/ROS2-PX4_Drone_Teleoperation_Using_Joystick): PX4 SITL + Micro XRCE-DDS | [workshop](https://youtu.be/cXdP29a-SEQ) |
 | Embedded + ROS 2 | [**Gesture-controlled robot**](https://github.com/MechaMind-Labs/MicroROS_Gesture_Controlled_Robot_MPU6050): ESP32 + IMU + micro-ROS | [workshop](https://youtu.be/mkafPenW_4M) |
 | Embedded + ROS 2 | [**Arduino joystick → ROS 2**](https://github.com/MechaMind-Labs/Joystick_Module_Integration_with_ROS2): serial hardware integration | [workshop](https://youtu.be/QVdoAvO35Y4) |
-| ROS 2 foundations | [**Edge-avoiding robot**](https://github.com/MechaMind-Labs/Edge_Avoiding_Robot_Gazebo): URDF, Gazebo, ros2_control from scratch | [workshop](https://youtu.be/luZq317FUrE) |
+| ROS 2 foundations | [**Edge-avoiding robot**](https://github.com/MechaMind-Labs/Edge_Avoiding_Robot_Gazebo): URDF, Gazebo, ros2_control from scratch; [step-by-step handout](https://github.com/MechaMind-Labs/session_steps) | [workshop](https://youtu.be/luZq317FUrE) |
 | ROS 2 foundations | [**ROS 2 basics with TurtleSim**](https://github.com/MechaMind-Labs/Mastering_the_Basics_of_ROS2_with_TurtleSim) | [course](https://www.youtube.com/playlist?list=PLdMuvhY3uTKsb2-ouIdMiEGuhIAxSrgIx) |
 
 All workshops: [Live Labs playlist](https://www.youtube.com/playlist?list=PLdMuvhY3uTKtMOVVnfKRV4qswTEHeXTy2) · Built on the channel: [ROS 2 SCARA arm, 25-part series](https://github.com/Curious-Utkarsh/ROS2_SCARA_WS) · Founder: [Kumar Utkarsh](https://github.com/Curious-Utkarsh)
