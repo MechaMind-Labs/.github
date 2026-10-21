@@ -17,6 +17,6 @@ Hands-on robotics, taught by building complete robots: CAD → electronics → f
 | ROS 2 foundations | [**Edge-avoiding robot**](https://github.com/MechaMind-Labs/edge-avoiding-robot): URDF, Gazebo, ros2_control from scratch; [step-by-step handout](https://github.com/MechaMind-Labs/edge-avoiding-robot-workshop-guide) | [workshop](https://youtu.be/luZq317FUrE) |
 | ROS 2 foundations | [**ROS 2 basics with TurtleSim**](https://github.com/MechaMind-Labs/ros2-basics-with-turtlesim) | [course](https://www.youtube.com/playlist?list=PLdMuvhY3uTKsb2-ouIdMiEGuhIAxSrgIx) |
 
-All workshops: [Live Labs playlist](https://www.youtube.com/playlist?list=PLdMuvhY3uTKtMOVVnfKRV4qswTEHeXTy2) · Built on the channel: [ROS 2 SCARA arm, 25-part series](https://github.com/Curious-Utkarsh/scara-pick-and-place) · Founder: [Kumar Utkarsh](https://github.com/Curious-Utkarsh)
+All workshops: [Workshops and Live Labs playlist](https://www.youtube.com/playlist?list=PLdMuvhY3uTKtMOVVnfKRV4qswTEHeXTy2) · Built on the channel: [ROS 2 SCARA arm, 25-part series](https://github.com/Curious-Utkarsh/scara-pick-and-place) · [series playlist](https://www.youtube.com/playlist?list=PLFVs4BXGHW84) · Founder: [Kumar Utkarsh](https://github.com/Curious-Utkarsh)
 
 [Website](https://www.mechamindlabs.com/) · [YouTube](https://www.youtube.com/@MechaMindLabs) · [LinkedIn](https://www.linkedin.com/company/mechamindlabs/)
