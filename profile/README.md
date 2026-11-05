@@ -6,7 +6,7 @@ Hands-on robotics, taught by building complete robots: CAD → electronics → f
 
 | Area | Repository | Demo |
 |---|---|---|
-| Mobile robotics | [**AMR-Mastery — MechaBot**](https://github.com/MechaMind-Labs/AMR-Mastery): SLAM, Nav2, QR + LiDAR autonomous docking, real hardware | [video](https://www.youtube.com/shorts/rBTisGu6iEY) |
+| Mobile robotics | [**AMR-Mastery — MechaBot**](https://github.com/MechaMind-Labs/AMR-Mastery): SLAM, Nav2, QR + LiDAR autonomous docking, real hardware | [video](https://www.youtube.com/shorts/rBTisGu6iEY) · [full course (40 lessons)](https://www.youtube.com/playlist?list=PLae-2ikc0DUY) |
 | Manipulation | [**Franka colour sorting**](https://github.com/MechaMind-Labs/franka-color-sorting-robot): OpenCV + MoveIt 2 pick-and-place | [workshop](https://youtu.be/0N3B8FG0T1Y) |
 | Manipulation | [**Dual-Panda tic-tac-toe**](https://github.com/MechaMind-Labs/dual-franka-tic-tac-toe): two arms take turns; OpenCV board, AI opponent, MoveIt 2 | [video](https://youtu.be/3YFORZAgRXA) |
 | Manipulation | [**3-DOF arm digital twin**](https://github.com/MechaMind-Labs/3dof-arm-digital-twin): ESP32 hardware mirrored in RViz/Gazebo | [workshop](https://youtu.be/UF73iIe3LsY) |
